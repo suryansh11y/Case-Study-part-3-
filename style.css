@@ -1,0 +1,14 @@
+.img-responsive
+{
+    width: 30%;
+}
+
+body {
+    background-color :pink;
+}
+
+.title
+{
+    font-weight : bold;
+    font-family: sans-serif;
+}
